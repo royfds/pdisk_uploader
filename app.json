@@ -16,6 +16,10 @@
         "PDISK_API_KEY": {
             "description": "Get this from https://www.pdisk.me/use-api (must change)",
             "value": ""
+        },
+        "THUMB_URL": {
+            "description": "Enter the permanent thumbnail image url can use this @TGraphXbot",
+            "value" : ""
         }
     },
     "addons": [],
