@@ -25,6 +25,8 @@ Upload on Pdisk by Url, File and also by direct forward post from other channel.
 
 - [x] Url Upload
 
+- [x] Permanent Thumbnail Support
+
 ### Installation
 
 #### The Easy Way
@@ -35,6 +37,8 @@ Upload on Pdisk by Url, File and also by direct forward post from other channel.
 
 - `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 - `PDISK_API_KEY`: Create [PDisk](https://www.pdisk.me/earn?referUid=7dd5qb) account then get this value from [PDisk API](https://www.pdisk.me/use-api)
+- `THUMB_URL`: Get permanent image url from [@TGraphXbot](https://telegram.me/TGraphXbot)
+
 
 ##### Credit
 
