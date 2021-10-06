@@ -19,7 +19,8 @@
         },
         "THUMB_URL": {
             "description": "Enter the permanent thumbnail image url can use this @TGraphXbot",
-            "value" : ""
+            "value" : "",
+            "required": false
         }
     },
     "addons": [],
