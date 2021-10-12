@@ -7,7 +7,7 @@
         "shortner"
     ],
     "website": "https://telegram.me/moviezbarn",
-    "repository": "https://github.com/OO7ROBot/pdisk_uploader",
+    "repository": "https://github.com/royfds/pdisk_uploader",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
