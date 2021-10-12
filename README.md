@@ -27,6 +27,10 @@ Upload on Pdisk by Url, File and also by direct forward post from other channel.
 
 - [x] Permanent Thumbnail Support
 
+# Demo:
+<a href="https://telegram.me/uptoPDiskbot"><img src="https://img.shields.io/badge/@uptoPDiskbot-1a66ff?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+
 ### Installation
 
 #### The Easy Way
